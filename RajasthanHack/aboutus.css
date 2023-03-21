@@ -1,0 +1,12 @@
+#home {
+  display: flex;
+  font-size: 3rem;
+  flex-direction: column;
+  padding: 1rem 1rem 1rem 1rem;
+  height: 10rem;
+  justify-content: center;
+  align-items: center;
+}
+.aboutpara{
+  font-size: 20px;
+}

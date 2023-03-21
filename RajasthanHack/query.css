@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+}
+.query{
+    margin-top: 12vh;
+}
+.query-box{
+    border: 0.1px solid grey;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    /* padding: 10px auto; */
+    margin: 10px auto;
+    margin-top: 50px;
+}
+.query-content{
+    margin: 50px auto;
+
+}
+.form{
+    margin-top: 50px;
+    padding: 10px auto;
+    height: 20vh;
+}
+.anchor-query{
+    text-decoration: none !important;
+}
