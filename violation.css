@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(60, 56, 6);
+}
+#home{
+    display: flex;
+    flex-direction: column;
+    height: 20rem;
+
+    justify-content: center;
+    align-items: center;
+}
+.h-primary{
+    font-family: 'Bree Serif', serif;
+    font-size: 3.8rem;
+    margin-top: 20px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mb-3{
+    width: 50rem;
+}
+#validationTextarea{
+    height: 12rem;
+}
+.upload{
+    width: 25rem;
+    margin-left: 12rem;
+}
+.main{
+    justify-content: center;
+    align-items: center;
+}

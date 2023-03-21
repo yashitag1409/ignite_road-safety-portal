@@ -1,0 +1,17 @@
+
+/* Services section  */
+#services{
+    height: 1000px;
+}
+.services-container{
+    margin: -63px 1px 1px 1px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#services .box { 
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+}
